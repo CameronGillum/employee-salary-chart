@@ -3,7 +3,7 @@
 ## Description
 
 Module 3 Challenge
-https://camerongillum.github.io/project-portfolio/
+https://github.com/CameronGillum/employee-salary-chart
 
 ## Installation
 
